@@ -14,7 +14,7 @@ h1{
 }
 
 h3{
-    border-top: solid red;
+    border-top: solid blue;
     border-right-color:black;
     border-left-width: 20px;
     border-left-style: dashed;
